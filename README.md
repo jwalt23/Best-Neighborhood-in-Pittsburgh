@@ -8,12 +8,14 @@
 
 (description)
 
-Jacqueline's Links
+Team Members Notebooks and Links
 
-Eman's Links
+Jacqueline:
 
-Vibha's Links
+Eman:
 
-Gabrielle's Links
+Vibha:
+
+Gabrielle:
 
 (one sentence overview)
