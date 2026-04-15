@@ -1,2 +1,6 @@
 # Best-Neighborhood-in-Pittsburgh
-Repository where all of our data will be stored including notebooks and code
+# East Liberty Advocates
+# Jacqueline Walters - jvw20@pitt.edu
+# Eman Hussein - ewh34@pitt.edu
+# Vibha Mitti - vim140@pitt.edu
+# Gabrielle Sutherland - gsutherland@pitt.edu
