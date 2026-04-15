@@ -21,3 +21,6 @@ Vibha:
 Gabrielle:
 
 (one sentence overview)
+
+Final Notebook: 
+https://hub.crc.pitt.edu/hub/user-redirect/lab/tree/Final%20Group%20Notebook.ipynb
