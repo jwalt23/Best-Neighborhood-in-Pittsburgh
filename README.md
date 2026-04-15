@@ -23,4 +23,5 @@ Gabrielle:
 (one sentence overview)
 
 Final Notebook: 
-Final Project Notebook - Jacqueline Walters.ipynb
+https://hub.crc.pitt.edu/hub/user-redirect/lab/tree/Final%20Group%20Notebook.ipynb
+
