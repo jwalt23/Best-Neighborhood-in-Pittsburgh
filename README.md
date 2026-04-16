@@ -11,7 +11,7 @@
 Team Members Notebooks and Links
 
 Jacqueline:
-
+https://hub.crc.pitt.edu/hub/user-redirect/lab/tree/Final%20Project%20Notebook%20-%20Jacqueline%20Walters.ipynb (link to personal notebook)
 https://data.wprdc.org/dataset/operations-green-spaces/resource/5cf7163b-f76c-47ef-b48d-a16366ac1835 (link to dataset)
 
 Eman:
