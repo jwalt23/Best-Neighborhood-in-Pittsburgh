@@ -5,8 +5,9 @@
  Eman Hussein - ewh34@pitt.edu
  Vibha Mitti - vim140@pitt.edu
  Gabrielle Sutherland - gsutherland@pitt.edu
+# Project Description
+This project compares Pittsburgh neighborhoods using data metrics to determine the best neighborhood.
 
-(description)
 
 Team Members Notebooks and Links
 
