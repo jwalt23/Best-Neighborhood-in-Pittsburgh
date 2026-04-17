@@ -27,5 +27,5 @@ Gabrielle: https://data.wprdc.org/dataset/smart-trash-containers/resource/75b83a
 My metric is smart trash receptacles throughout the city, tracking new placements from 2017 to 2022.
 
 
-### This project combines different data metrucs like safety, environment, and city resources to find the best neighborhood in Pittsburgh.
+ This project combines different data metrics like safety, environment, and city resources to find the best neighborhood in Pittsburgh.
 
