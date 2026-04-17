@@ -19,7 +19,7 @@ https://github.com/jwalt23/Best-Neighborhood-in-Pittsburgh/blob/main/Safety_East
 
 Vibha:
 
-Gabrielle:
+Gabrielle: https://github.com/gesutherland
 
 (one sentence overview)
 
