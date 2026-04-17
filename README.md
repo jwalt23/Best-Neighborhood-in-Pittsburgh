@@ -28,7 +28,7 @@ My metric is total toxic release into the air around different parts of Alleghen
 
 Gabrielle: https://data.wprdc.org/dataset/smart-trash-containers/resource/75b83ac9-8069-4cf1-bcc3-b9e6b04487d9
 
-My metric is smart trash receptacles throughout the city, tracking new placements from 2017 to 2022.
+My metric is smart trash containers throughout the city, tracking new placements from 2017 to 2022.
 
 
  This project combines different data metrics like safety, environment, and city resources to find the best neighborhood in Pittsburgh.
