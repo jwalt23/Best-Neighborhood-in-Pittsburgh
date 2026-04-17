@@ -19,7 +19,8 @@ https://github.com/jwalt23/Best-Neighborhood-in-Pittsburgh/blob/main/Safety_East
 
 Vibha:
 
-Gabrielle: https://github.com/gesutherland
+Gabrielle: https://data.wprdc.org/dataset/smart-trash-containers/resource/75b83ac9-8069-4cf1-bcc3-b9e6b04487d9
+My metric is smart trash receptacles throughout the city, tracking new placements from 2017 to 2022.
 
 (one sentence overview)
 
