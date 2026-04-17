@@ -8,8 +8,7 @@
 ## Project Description
 This project compares Pittsburgh neighborhoods using data metrics to determine the best neighborhood.
 
-
-###Team Members Notebooks and Links
+### Team Members Notebooks and Links
 
 Jacqueline:
 
